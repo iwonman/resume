@@ -17,7 +17,8 @@
 
 추천 사이트   
 [한림대학교](www.hallym.ac.kr)
-    
+
+주소 목록을 별도로 관리 할 수 있다.   
 [hallym]:www.hallym.ac.kr 
 
 
